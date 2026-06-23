@@ -15,4 +15,4 @@ git --config --list<br>
 
 
 Copying a repo into local system<br>
-git clone <link>
+git clone (link)
